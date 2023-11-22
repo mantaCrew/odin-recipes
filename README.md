@@ -1,0 +1,2 @@
+The current project is to create a basic html webwage and demonstrate my new found skills in html.
+With this web page project, I will have demonstrated my knowledge in anchors, images, alt text, list creation, and more. Hopefully it doesn't dissapoint :D .
